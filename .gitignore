@@ -1,0 +1,24 @@
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# Build
+obj/
+bin/
+
+# Databases
+*.db
+*.sqbpro
+
+# Excel / CSV generated files
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary / backups
+*~
+
